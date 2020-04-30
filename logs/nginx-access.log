@@ -1,0 +1,7 @@
+192.168.1.238 - - [30/Apr/2020:10:57:26 +0000] "GET / HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"
+192.168.1.238 - - [30/Apr/2020:10:57:31 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "http://192.168.1.199/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"
+192.168.1.238 - - [30/Apr/2020:10:59:49 +0000] "GET / HTTP/1.1" 200 22843 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"
+192.168.1.238 - - [30/Apr/2020:15:40:13 +0000] "GET / HTTP/1.1" 200 22954 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"
+192.168.1.238 - - [30/Apr/2020:15:51:31 +0000] "GET / HTTP/1.1" 200 22891 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"
+192.168.1.238 - - [30/Apr/2020:15:52:04 +0000] "GET / HTTP/1.1" 200 22883 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"
+192.168.1.238 - - [30/Apr/2020:15:55:07 +0000] "GET / HTTP/1.1" 200 22891 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"
